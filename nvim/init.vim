@@ -21,6 +21,7 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-lua/completion-nvim'
 Plug 'gruvbox-community/gruvbox'
+Plug 'jmckiern/vim-venter'
 call plug#end()
 
 colorscheme gruvbox
